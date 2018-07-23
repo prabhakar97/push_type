@@ -15,6 +15,7 @@ module PushType
         push_type/admin.js
         push_type/admin_assets.css 
         push_type/admin_assets.js
+        vendor/modernizr.js
       )
 
       initializer 'push_type_admin.menus' do
